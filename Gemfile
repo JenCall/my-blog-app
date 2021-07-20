@@ -24,6 +24,8 @@ gem 'turbolinks', '~> 5'
 
 gem 'simple_form'
 
+gem 'cloudinary', '~> 1.16.0'
+
 gem 'dotenv-rails', groups: [:development, :test]
 
 # Use Active Storage variant
